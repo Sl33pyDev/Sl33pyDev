@@ -1,4 +1,5 @@
-## Hi there 👋
+![doctor4t's github stats](https://github-readme-stats.vercel.app/api?username=Sl33pyDev&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![](https://cdn.discordapp.com/attachments/1342690736323428496/1434431470545403985/image-21.png?ex=69084de9&is=6906fc69&hm=5f0a53ca78ee52d7bd28f270f762da49dfa139fe87d7cd84f77a2f034c772434&)
 
 <!--
 **Sl33pyDev/Sl33pyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
