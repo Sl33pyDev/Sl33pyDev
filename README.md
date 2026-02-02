@@ -1,5 +1,4 @@
 ![Sl33pyDev's github stats](./profile/stats.svg)
-![](//)
 
 <!--
 **Sl33pyDev/Sl33pyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
